@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Python (just in case)
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# Personal output / 隐私（如果有人在 repo 里跑访谈，输出别 push 上来）
+*-positioning-v*.md
+private/
