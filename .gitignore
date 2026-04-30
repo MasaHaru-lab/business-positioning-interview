@@ -16,3 +16,5 @@ __pycache__/
 # Personal output / 隐私（如果有人在 repo 里跑访谈，输出别 push 上来）
 *-positioning-v*.md
 private/
+
+.omc/
